@@ -1,0 +1,18 @@
+{
+    "name": "qschen2/ueditor",
+    "description": "desc",
+    "license": "null",
+    "authors": [
+        {
+            "name": "qschen2",
+            "email": "qschen2@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "qschen2\\ueditor\\": ""
+        }
+    }
+}
