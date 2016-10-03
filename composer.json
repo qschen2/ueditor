@@ -1,14 +1,14 @@
 {
     "name": "qschen2/ueditor",
     "description": "desc",
-    "license": "null",
+    "license": "MIT",
     "authors": [
         {
             "name": "qschen2",
             "email": "qschen2@qq.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {},
     "autoload": {
         "psr-4": {
